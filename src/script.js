@@ -234,7 +234,9 @@ function createQuiz(questionNo, question, options, level) {
       "rounded-lg",
       "p-6",
       "w-full",
-      "max-w-xl")
+      "max-w-xl",
+    "border-2",
+      "border-gray-600")
   let  quizSection1 
    quizSection1 = createChild(quizSection1,quizBox,'div','',null,null,"flex", "justify-between", "items-center", "mb-4")
   let child;
