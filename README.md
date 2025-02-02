@@ -37,3 +37,7 @@ This will refresh the page and restart the quiz.
 ![imagealt](https://github.com/adityamanchandani03/quizAPP/blob/c151dd3d51800f2c953208a66dbfa2ea92da7736/appPreview/Screenshot%20(14).png)
 
 
+ # App Preview / Play Quiz
+ [ProjectURL](https://adityamanchandani03.github.io/quizAPP/)
+
+
