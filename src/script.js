@@ -229,7 +229,7 @@ function compareArrays(arr1, arr2) {
 function createQuiz(questionNo, question, options, level) {
 
   let quizBox  ;
-    quizBox = createChild(quizBox,quiz,'div','',"bg-white",
+    quizBox = createChild(quizBox,quiz,'div','',null,null,"bg-white",
       "shadow-lg",
       "rounded-lg",
       "p-6",
@@ -245,6 +245,8 @@ function createQuiz(questionNo, question, options, level) {
     quizSection1,
     "span",
     "Question",
+    null,
+    null,
     "text-lg",
     "font-semibold"
   );
